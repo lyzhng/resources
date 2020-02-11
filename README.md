@@ -12,10 +12,19 @@
   - [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 #### Development within Browser
-  - Programming
-    - [repl.it](https://repl.it/)
-    - [glot.io](https://glot.io/)
-  - Web
-    - [CodePen](https://codepen.io/)
-    - [JSFiddle](https://jsfiddle.net/)
-    - [JSBin](https://jsbin.com)
+- Programming
+  - [repl.it](https://repl.it/)
+  - [glot.io](https://glot.io/)
+- Web
+  - [CodePen](https://codepen.io/)
+  - [JSFiddle](https://jsfiddle.net/)
+  - [JSBin](https://jsbin.com)
+
+#### UI/UX
+- Fonts
+  - [Fontjoy](https://fontjoy.com/)
+- Styling
+  - [CSS Tricks](https://css-tricks.com/)
+  - [Learn CSS Grid](https://learncssgrid.com/)
+- Icons
+  - [Ion Icons](https://ionicons.com/)
