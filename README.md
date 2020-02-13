@@ -21,6 +21,8 @@
   - [JSBin](https://jsbin.com)
 
 #### UI/UX
+- Colors
+  - [Colormind](http://colormind.io/)
 - Fonts
   - [Fontjoy](https://fontjoy.com/)
 - Styling
