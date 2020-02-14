@@ -23,6 +23,7 @@
 #### UI/UX
 - Colors
   - [Colormind](http://colormind.io/)
+  - [UI Gradients](https://uigradients.com/)
 - Fonts
   - [Fontjoy](https://fontjoy.com/)
 - Styling
