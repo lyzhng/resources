@@ -5,6 +5,8 @@
   - [Logo Ipsum](https://logoipsum.com/)
   - [Logo Dust](https://logodust.com/)
   - [Acme Logos](http://acmelogos.com/)
+- Images
+  - [Picsum Photos](https://picsum.photos/)
 - Text
   - [Lipsum](https://www.lipsum.com/)
   - [loremipsum.io](https://loremipsum.io/)
