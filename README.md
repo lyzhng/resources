@@ -37,4 +37,3 @@
 #### CSS Frameworks
 - [Mustard UI](https://kylelogue.github.io/mustard-ui/index.html)
 - [Milligram](https://milligram.io/)
-- [Spectre](https://picturepan2.github.io/spectre/index.html)
