@@ -1,5 +1,10 @@
 ## Resources for Developers
 
+#### Learn Programming
+- [The Odin Project](https://www.theodinproject.com/)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [HN Academy](https://yahnd.com/academy/)
+
 #### Placeholders
 - Logos
   - [Logo Ipsum](https://logoipsum.com/)
@@ -34,7 +39,3 @@
 - Icons
   - [Ion Icons](https://ionicons.com/)
   - [icongram](https://icongr.am/)
-
-#### CSS Frameworks
-- [Mustard UI](https://kylelogue.github.io/mustard-ui/index.html)
-- [Milligram](https://milligram.io/)
