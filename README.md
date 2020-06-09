@@ -5,6 +5,9 @@
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [HN Academy](https://yahnd.com/academy/)
 
+#### Version Control
+- [git-rebase](https://git-rebase.io/)
+
 #### Placeholders
 - Logos
   - [Logo Ipsum](https://logoipsum.com/)
