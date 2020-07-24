@@ -48,6 +48,7 @@
       - [MDN Docs | CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
       - [CSS Tricks | A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
       - [Flexbox Froggy](https://flexboxfroggy.com/)
+      - [Flexbox Patterns](https://www.flexboxpatterns.com/)
 - Icons
   - [Ion Icons](https://ionicons.com/)
   - [icongram](https://icongr.am/)
