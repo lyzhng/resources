@@ -7,6 +7,7 @@
 
 #### Version Control
 - [git-rebase](https://git-rebase.io/)
+- [Oh Sh\*t, Git!?!](https://ohshitgit.com/)
 
 #### Placeholders
 - Logos
