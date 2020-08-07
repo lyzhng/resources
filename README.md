@@ -60,3 +60,9 @@
 #### Languages
 - Golang
   - [Go by Example](https://gobyexample.com/)
+  
+
+#### Libraries and Frameworks
+- Ruby
+  - Rails
+    - [Rails Tutorial](https://www.railstutorial.org/book)
