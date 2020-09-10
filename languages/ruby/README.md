@@ -1,4 +1,3 @@
 ## Ruby
  
- ### Rails
-  - [Rails Tutorial](https://www.railstutorial.org/book)
+- [The Odin Project](https://www.theodinproject.com/courses/ruby-programming)
